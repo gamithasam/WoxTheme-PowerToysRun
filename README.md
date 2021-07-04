@@ -1,8 +1,12 @@
 # [PowerToys Run](https://github.com/microsoft/PowerToys/wiki/PowerToys-Run-Overview) theme for [Wox](https://github.com/Wox-launcher/Wox)
 
-![](https://github.com/gamithasam/WoxTheme-PowerToysRun/blob/main/sample.png?raw=true)
-
 A theme for Wox inspired by Microsoft's [PowerToys Run](https://github.com/microsoft/PowerToys/wiki/PowerToys-Run-Overview) tool.
+
+### Light Theme
+![](https://github.com/gamithasam/WoxTheme-PowerToysRun/blob/main/sample-light.png?raw=true)
+
+### Dark Theme
+![](https://github.com/gamithasam/WoxTheme-PowerToysRun/blob/main/sample-dark.png?raw=true)
 
 ## Instructions
 

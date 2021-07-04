@@ -12,6 +12,8 @@ A theme for Wox inspired by Microsoft's [PowerToys Run](https://github.com/micro
 
 Simply copy the `PowerToysDark.xaml` theme file or `PowerToysLight.xaml` theme file to your Wox's `Themes` directory.
 
+After you switch back to another theme, Wox should be restarted in order to acquire the default dimensions.
+
 ## Remarks
 
 Wox's theme [fixes the result height to 50px](https://github.com/Wox-launcher/Wox/blob/324dc8e4cfad3a47c88bbac3fc526d6fec0dbfad/Wox/ResultListBox.xaml#L23) so I couldn't match PowerToys' design perfectly.
